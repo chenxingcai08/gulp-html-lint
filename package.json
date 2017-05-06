@@ -1,7 +1,6 @@
 {
-  "author": {
-    "name": "Paco"
-  },
+  "name": "gulp-html-lint",
+  "author": "Paco",
   "dependencies": {
     "htmllint": "github:pacochan/htmllint",
     "text-table": "^0.2.0",
@@ -29,14 +28,9 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "maintainers": [{
-    "name": "paco07",
-    "email": "xingcaichen07@163.com"
-  }],
-  "publish_time": 1460060271098,
   "repository": {
     "type": "git",
-    "url": "https://github.com/pacochan/gulp-html-lint"
+    "url": "https://github.com/pacochan/gulp-html-lint.git"
   },
   "scripts": {
     "ci": "gulp ci",
